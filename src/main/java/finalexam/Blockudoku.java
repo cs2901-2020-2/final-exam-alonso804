@@ -202,14 +202,6 @@ public class Blockudoku {
         return true;
     }
 
-    public static void printBoard(int[][] board) {
-        for(int i = 0; i < SIZEBOARD; i++) {
-            for(int j = 0; j < SIZEBOARD; j++) {
-                logger.info(String.valueOf(board[i][j]));
-            }
-        }
-    }
-
     public static int[][] generateBoard(int n){
         int[][] board = new int[n][n];
 
@@ -246,6 +238,5 @@ public class Blockudoku {
         insertF(board, 1, 1);
         insertG(board, 1, 1);
         insertH(board, 1, 1);
-        printBoard(board);
     }
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="BlockudokuTest" time="0.238" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="BlockudokuTest" time="0.224" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire/surefirebooter9082958442943597997.jar /home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire 2020-12-23T11-49-57_890-jvmRun1 surefire11060539799329575225tmp surefire_06582551443058737342tmp"/>
+    <property name="sun.java.command" value="/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire/surefirebooter16664463611900468576.jar /home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire 2020-12-23T11-58-46_900-jvmRun1 surefire3574739401415929435tmp surefire_011022423922842591128tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/test-classes:/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/classes:/home/alonso/.m2/repository/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar:/home/alonso/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar:/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.3/log4j-core-2.13.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire/surefirebooter9082958442943597997.jar"/>
+    <property name="surefire.real.class.path" value="/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire/surefirebooter16664463611900468576.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.9.1+1-Ubuntu-0ubuntu1.18.04"/>
     <property name="user.name" value="alonso"/>
@@ -57,6 +57,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testCheck1" classname="BlockudokuTest" time="0.022"/>
+  <testcase name="testCheck1" classname="BlockudokuTest" time="0.021"/>
   <testcase name="testCheck2" classname="BlockudokuTest" time="0"/>
+  <testcase name="testInsertA" classname="BlockudokuTest" time="0"/>
+  <testcase name="testgenerateboard" classname="BlockudokuTest" time="0.001"/>
 </testsuite>

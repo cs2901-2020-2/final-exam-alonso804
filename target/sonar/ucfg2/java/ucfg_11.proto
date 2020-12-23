@@ -1,0 +1,48 @@
+
+#finalexam.Blockudoku#inputColumn()I€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaß ß(!"1*ê
+1€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaà à(´
+±
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaà à(
+%0java.util.logging.Logger"__id*
+""™–
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaà à((
+
+%1void"2java.util.logging.Logger#info(Ljava/lang/String;)V* 
+
+%0java.util.logging.Logger*
+Ingresar column: 2info(Ljava/lang/String;)¯
+¬
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaá% á(.
+%2java.io.InputStream"__id*
+""²¯
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaá á($
+%3java.util.Scanner"java.util.Scannerö
+ó
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaá á(/
+%4"0java.util.Scanner#<init>(Ljava/io/InputStream;)V*
+
+%3java.util.Scanner*
+
+%2java.io.InputStreamÄ
+Á
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaá á(0
+columnjava.util.Scanner"__id*
+
+%3java.util.ScannerÙÖ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaâ â(	
+%5int"java.util.Scanner#nextInt()I*
+
+columnjava.util.Scanner2	nextInt()"‹
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaâ â( 
+""B"
+finalexam.Blockudoku

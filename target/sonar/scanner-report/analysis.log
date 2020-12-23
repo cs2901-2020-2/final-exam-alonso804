@@ -1,0 +1,88 @@
+SonarCloud plugins:
+  - SonarCSS 1.2.1.1602 (cssfamily)
+  - PL/SQL Code Quality and Security 3.5.0.3437 (plsql)
+  - Scala Code Quality and Security 1.8.1.1804 (sonarscala)
+  - C# Code Quality and Security 8.15.0.24505 (csharp)
+  - Vulnerability Analysis 8.6.0.6438 (security)
+  - Java Code Quality and Security 6.10.0.24201 (java)
+  - HTML Code Quality and Security 3.3.0.2534 (web)
+  - Flex Code Quality and Security 2.6.0.2294 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - VB.NET Code Quality and Security 8.15.0.24505 (vbnet)
+  - Swift Code Quality and Security 4.3.0.4687 (swift)
+  - CFamily Code Quality and Security 6.15.0.25047 (cpp)
+  - Python Code Quality and Security 3.1.0.7619 (python)
+  - Go Code Quality and Security 1.8.1.1804 (go)
+  - JaCoCo 1.1.0.898 (jacoco)
+  - Kotlin Code Quality and Security 1.8.1.1804 (kotlin)
+  - Mercurial 1.1.2 (scmmercurial)
+  - T-SQL Code Quality and Security 1.5.0.3958 (tsql)
+  - Apex Code Quality and Security 1.8.1.1804 (sonarapex)
+  - JavaScript/TypeScript Code Quality and Security 7.0.1.14561 (javascript)
+  - Ruby Code Quality and Security 1.8.1.1804 (ruby)
+  - Vulnerability Rules for C# 8.6.0.6438 (securitycsharpfrontend)
+  - Vulnerability Rules for Java 8.6.0.6438 (securityjavafrontend)
+  - License for SonarLint 8.0.0.15878 (license)
+  - Vulnerability Rules for JS 8.6.0.6438 (securityjsfrontend)
+  - COBOL Code Quality 4.6.0.4639 (cobol)
+  - Vulnerability Rules for Python 8.6.0.6438 (securitypythonfrontend)
+  - Git 1.12.1.2064 (scmgit)
+  - PHP Code Quality and Security 3.13.0.6849 (php)
+  - ABAP Code Quality and Security 3.9.0.2739 (abap)
+  - Vulnerability Rules for PHP 8.6.0.6438 (securityphpfrontend)
+Global server settings:
+  - email.from=noreply@sonarcloud.io
+  - email.fromName=SonarCloud
+  - email.prefix=[SonarCloud]
+  - java_11_brownout_start_date=1610323200000
+  - java_11_brownout_termination_date=1610668800000
+  - java_11_end_of_support_date=1612170000000
+  - sonar.auth.bitbucket.enabled=true
+  - sonar.auth.microsoft.enabled=true
+  - sonar.core.id=1BD809FA-AWHW8ct9-T_TB3XqouNu
+  - sonar.core.serverBaseURL=https://sonarcloud.io
+  - sonar.core.startTime=2020-12-21T10:21:28+0100
+  - sonar.dbcleaner.weeksBeforeDeletingAllSnapshots=480
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByMonth=4
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek=1
+  - sonar.feature_flag.bbc_code_reports.enabled=true
+  - sonar.lf.enableGravatar=true
+  - sonar.lf.logoWidthPx=105
+  - sonar.organizations.anyoneCanCreate=true
+  - sonar.organizations.createPersonalOrg=true
+  - sonar.plsql.file.suffixes=sql,tab,pkb
+  - sonar.tsql.file.suffixes=.tsql
+Project server settings:
+Project scanner properties:
+  - sonar.binaries=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/classes
+  - sonar.groovy.binaries=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/classes
+  - sonar.host.url=https://sonarcloud.io
+  - sonar.java.binaries=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/classes
+  - sonar.java.libraries=/home/alonso/.m2/repository/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar,/home/alonso/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar,/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar,/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.3/log4j-core-2.13.3.jar
+  - sonar.java.source=11
+  - sonar.java.target=11
+  - sonar.java.test.binaries=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/test-classes
+  - sonar.java.test.libraries=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/classes,/home/alonso/.m2/repository/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar,/home/alonso/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar,/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar,/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.3/log4j-core-2.13.3.jar
+  - sonar.junit.reportPaths=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire-reports
+  - sonar.junit.reportsPath=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/surefire-reports
+  - sonar.libraries=/home/alonso/.m2/repository/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar,/home/alonso/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar,/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar,/home/alonso/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.3/log4j-core-2.13.3.jar
+  - sonar.links.ci=
+  - sonar.links.homepage=https://spring.io/projects/spring-boot/final-exam-alonso804
+  - sonar.links.issue=
+  - sonar.links.scm=https://github.com/spring-projects/spring-boot/final-exam-alonso804
+  - sonar.links.scm_dev=
+  - sonar.login=******
+  - sonar.moduleKey=cs2901-2020-2_final-exam-alonso804
+  - sonar.organization=cs2901-2020-2
+  - sonar.projectBaseDir=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804
+  - sonar.projectBuildDir=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target
+  - sonar.projectDescription=final exam
+  - sonar.projectKey=cs2901-2020-2_final-exam-alonso804
+  - sonar.projectName=final-exam-alonso804
+  - sonar.projectVersion=0.0.1-SNAPSHOT
+  - sonar.scanner.app=ScannerMaven
+  - sonar.scanner.appVersion=3.7.0.1746/3.6.0
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/pom.xml,/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java
+  - sonar.tests=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/test/java
+  - sonar.working.directory=/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/target/sonar

@@ -1,12 +1,7 @@
 import finalexam.Blockudoku;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 
 @Test
 public class BlockudokuTest {
@@ -23,5 +18,19 @@ public class BlockudokuTest {
         boolean temp = blockudoku.isCoordenateBad(8);
 
         Assert.assertEquals(temp, false);
+    }
+
+    public void testgenerateboard(){
+        Blockudoku blockudoku = new Blockudoku();
+        int board[][] = blockudoku.generateBoard(9);
+
+        Assert.assertEquals(board[0][0], 0);
+    }
+    public void testInsertA(){
+        Blockudoku blockudoku = new Blockudoku();
+        int board[][] = blockudoku.generateBoard(9);
+        boolean temp = blockudoku.insertA(board, 4, 4);
+
+        Assert.assertEquals(temp, true);
     }
 }

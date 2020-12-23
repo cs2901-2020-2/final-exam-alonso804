@@ -1,0 +1,118 @@
+
+$finalexam.Blockudoku#insertF([[III)Z€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java† †(!"14*ô
+13€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‡# ‡(2á
+Þ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‡# ‡(;
+%1boolean"(finalexam.Blockudoku#isCoordenateBad(I)Z*"
+finalexam.Blockudoku*
+""*
+8
+12*œ
+2€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java“ “(´
+±
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java“ “(
+%9java.util.logging.Logger"__id*
+""­
+ª
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java“ “('
+%10java.lang.String"__id*
+""ž›
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java“ “((
+%11void"2java.util.logging.Logger#info(Ljava/lang/String;)V* 
+
+%9java.util.logging.Logger*
+
+%10java.lang.String2info(Ljava/lang/String;)"‹
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java” ”(
+""*ô
+14€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‡ ‡(á
+Þ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‡ ‡(
+%0boolean"(finalexam.Blockudoku#isCoordenateBad(I)Z*"
+finalexam.Blockudoku*
+""*
+13
+8*™
+8€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‰ ‰(´
+±
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‰ ‰(
+%6java.util.logging.Logger"__id*
+""¬
+©
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‰ ‰($
+%7java.lang.String"__id*
+""œ™
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‰ ‰(%
+
+%8void"2java.util.logging.Logger#info(Ljava/lang/String;)V* 
+
+%6java.util.logging.Logger*
+
+%7java.lang.String2info(Ljava/lang/String;)"‹
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaŠ Š(
+""*õ
+9€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaˆJ ˆ(Yá
+Þ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaˆJ ˆ(e
+%5boolean"(finalexam.Blockudoku#isCoordenateBad(I)Z*"
+finalexam.Blockudoku*
+""*	
+2
+8
+1*ó
+10€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaˆ+ ˆ(:á
+Þ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaˆ+ ˆ(F
+%4boolean"(finalexam.Blockudoku#isCoordenateBad(I)Z*"
+finalexam.Blockudoku*
+""*
+8
+9*ô
+11€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaˆ ˆ(á
+Þ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaˆ ˆ('
+%3boolean"(finalexam.Blockudoku#isCoordenateBad(I)Z*"
+finalexam.Blockudoku*
+""*
+8
+10*ô
+12€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‡? ‡(Ná
+Þ
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java‡? ‡(W
+%2boolean"(finalexam.Blockudoku#isCoordenateBad(I)Z*"
+finalexam.Blockudoku*
+""*
+8
+11*”
+1€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.java— —("‹
+€
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaœ œ(
+"":
+"":
+"":
+""B"
+finalexam.Blockudoku
