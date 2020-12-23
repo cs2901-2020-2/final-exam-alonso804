@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: BlockudokuTest
+Test set: finalexam.BlockudokuTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.231 s - in BlockudokuTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.228 s - in finalexam.BlockudokuTest

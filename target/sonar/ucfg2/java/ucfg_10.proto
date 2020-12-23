@@ -1,15 +1,15 @@
 
  finalexam.Blockudoku#inputRow()I€
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÙ Ù("1*á
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÚ Ú("1*á
 1€
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÚ Ú(´
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ Û(´
 ±
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÚ Ú(
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ Û(
 %0java.util.logging.Logger"__id*
 ""–“
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÚ Ú(%
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ Û(%
 
 %1void"2java.util.logging.Logger#info(Ljava/lang/String;)V* 
 
@@ -17,15 +17,15 @@ t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/sr
 Ingresar row: 2info(Ljava/lang/String;)¯
 ¬
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ" Û(+
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÜ" Ü(+
 %2java.io.InputStream"__id*
 ""²¯
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ Û(!
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÜ Ü(!
 %3java.util.Scanner"java.util.Scannerö
 ó
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ Û(,
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÜ Ü(,
 %4"0java.util.Scanner#<init>(Ljava/io/InputStream;)V*
 
 %3java.util.Scanner*
@@ -33,16 +33,16 @@ t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/sr
 %2java.io.InputStreamÁ
 ¾
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÛ Û(-
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÜ Ü(-
 rowjava.util.Scanner"__id*
 
 %3java.util.ScannerÖÓ
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÜ Ü(	
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÝ Ý(	
 %5int"java.util.Scanner#nextInt()I*
 
 rowjava.util.Scanner2	nextInt()"‹
 €
-t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÜ Ü(
+t/home/alonso/NeoVimProjects/UTEC/Software_Engineering_I/final-exam-alonso804/src/main/java/finalexam/Blockudoku.javaÝ Ý(
 ""B"
 finalexam.Blockudoku

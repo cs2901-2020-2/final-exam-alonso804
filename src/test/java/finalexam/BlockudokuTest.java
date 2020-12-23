@@ -1,3 +1,5 @@
+package finalexam;
+
 import finalexam.Blockudoku;
 
 import org.testng.Assert;
