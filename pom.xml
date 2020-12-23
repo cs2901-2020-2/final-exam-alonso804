@@ -49,7 +49,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>final.Blockudoku</mainClass>
+                            <mainClass>finalexam.Blockudoku</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
